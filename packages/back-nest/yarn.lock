@@ -4839,7 +4839,7 @@ pg-protocol@*, pg-protocol@^1.8.0:
   resolved "https://registry.yarnpkg.com/pg-protocol/-/pg-protocol-1.8.0.tgz#c707101dd07813868035a44571488e4b98639d48"
   integrity sha512-jvuYlEkL03NRvOoyoRktBK7+qU5kOvlAwvmrH8sr3wbLrOdVWsRxQfz8mMy9sZFsqJ1hEWNfdWKI4SAmoL+j7g==
 
-pg-query-stream@^4.3.0:
+pg-query-stream@^4.8.1:
   version "4.8.1"
   resolved "https://registry.yarnpkg.com/pg-query-stream/-/pg-query-stream-4.8.1.tgz#1b52ccaa08284d443b4b355ee11b017b77d563dd"
   integrity sha512-kZo6C6HSzYFF6mlwl+etDk5QZD9CMdlHUXpof6PkK9+CHHaBLvOd2lZMwErOOpC/ldg4thrAojS8sG1B8PZ9Yw==
@@ -4870,7 +4870,7 @@ pg-types@^4.0.1:
     postgres-interval "^3.0.0"
     postgres-range "^1.1.1"
 
-pg@^8.8.0:
+pg@^8.14.1:
   version "8.14.1"
   resolved "https://registry.yarnpkg.com/pg/-/pg-8.14.1.tgz#2e3d1f287b64797cdfc8d1ba000f61a7ff8d66ed"
   integrity sha512-0TdbqfjwIun9Fm/r89oB7RFQ0bLgduAhiIqIXOsyKoiC/L54DbuAAzIEN/9Op0f1Po9X7iCPXGoa/Ah+2aI8Xw==
@@ -6019,7 +6019,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
 
-typeorm@^0.3.10:
+typeorm@^0.3.21:
   version "0.3.21"
   resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-0.3.21.tgz#8da9e0f079302a263eb05a4376239cef055886fd"
   integrity sha512-lh4rUWl1liZGjyPTWpwcK8RNI5x4ekln+/JJOox1wCd7xbucYDOXWD+1cSzTN3L0wbTGxxOtloM5JlxbOxEufA==
