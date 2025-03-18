@@ -11,7 +11,7 @@ import { json } from 'express';
 import { AllExceptionsFilter } from './filters/exception.filter';
 
 const GLOBAl_API_PREFIX = 'api';
-const logger = new Logger("Backend");
+const logger = new Logger('Backend');
 
 async function runServer() {
   Sentry.init({
