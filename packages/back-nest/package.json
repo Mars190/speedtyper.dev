@@ -45,7 +45,7 @@
     "reflect-metadata": "^0.2.2",
     "rimraf": "^6.0.1",
     "rxjs": "^7.8.2",
-    "socket.io": "^4.5.2",
+    "socket.io": "^4.8.1",
     "tree-sitter": "^0.22.4",
     "tree-sitter-c": "^0.23.5",
     "tree-sitter-c-sharp": "^0.23.1",
