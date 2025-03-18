@@ -6,5 +6,6 @@
 - Go from packages/front&backend to /frontend & /backend
 
 ### Backend (NestJS)
-- Use `Logging` instead of `console.log()`
 - Updating all dependencies (Main ones are NestJS)
+- Add eslint after update
+- Use `Logging` instead of `console.log()`
