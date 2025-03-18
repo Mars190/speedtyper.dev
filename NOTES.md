@@ -3,8 +3,7 @@
 - Split CONTRIBUTING.md into docs for backend and frontend
 - Setup: use nvm, yarn 4.7, build-options, docker
 - Tests?
-- Go from packages/front&backend to /frontend & /backend
+- Go from packages/front&backend to /frontend & /backend -> rm make file
 
 ### Backend (NestJS)
-- Add eslint after update
 - Use `Logging` instead of `console.log()`
