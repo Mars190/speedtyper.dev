@@ -3,7 +3,7 @@ import * as session from 'express-session';
 import { PostgresDataSource } from 'src/database.module';
 import { Session } from './session.entity';
 
-const SESSION_SECRET_MIN_LENGTH = 12;
+const SESSION_SECRET_MIN_LENGTH = 32;
 
 const ONE_DAY = 1000 * 60 * 60 * 24;
 
