@@ -3209,6 +3209,7 @@ __metadata:
     passport: "npm:^0.7.0"
     passport-github: "npm:^1.1.0"
     pg: "npm:^8.14.1"
+    pg-query-stream: "npm:^4.8.1"
     prettier: "npm:^3.5.3"
     reflect-metadata: "npm:^0.2.2"
     rimraf: "npm:^6.0.1"
@@ -7078,6 +7079,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"pg-cursor@npm:^2.13.1":
+  version: 2.13.1
+  resolution: "pg-cursor@npm:2.13.1"
+  peerDependencies:
+    pg: ^8
+  checksum: 10c0/c1487a14f899c90c33dc062d88842001fa7468f9b186ba1660e442453296e0aab8583b08c1e74dab45c57309410ef2f1541d1bc891b4241795dded8f3be6d0e0
+  languageName: node
+  linkType: hard
+
 "pg-int8@npm:1.0.1":
   version: 1.0.1
   resolution: "pg-int8@npm:1.0.1"
@@ -7105,6 +7115,17 @@ __metadata:
   version: 1.8.0
   resolution: "pg-protocol@npm:1.8.0"
   checksum: 10c0/2be784955599d84b564795952cee52cc2b8eab0be43f74fc1061506353801e282c1d52c9e0691a9b72092c1f3fde370e9b181e80fef6bb82a9b8d1618bfa91e6
+  languageName: node
+  linkType: hard
+
+"pg-query-stream@npm:^4.8.1":
+  version: 4.8.1
+  resolution: "pg-query-stream@npm:4.8.1"
+  dependencies:
+    pg-cursor: "npm:^2.13.1"
+  peerDependencies:
+    pg: ^8
+  checksum: 10c0/134bb2662712fefbde17218500be93d05e09f664b58e4b3b0ae89c2b60ba0b16d618096a1d0a388de3e638cc982ae0a8fc59dd77e8c1548c308f692e2be9a6a1
   languageName: node
   linkType: hard
 
